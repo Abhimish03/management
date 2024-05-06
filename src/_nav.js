@@ -332,6 +332,12 @@ const _nav = [
     to: '/shipping',
     icon: <CIcon icon={cilPencil} customClassName="nav-icon" />,
   },
+  {
+    component: CNavItem,
+    name: 'Login',
+    to: '/login',
+    // icon: <CIcon icon={cilPencil} customClassName="nav-icon" />,
+  },
   ]
 
 
